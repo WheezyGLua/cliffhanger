@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Itim&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Honk&display=swap");
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  font-style: normal;
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+body {
+  background-color: #15233e;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.game-title {
+  font-family: "Honk", system-ui;
+  font-size: 10em;
+}
+
+.page-container {
+  height: 100vh;
+  overflow: hidden;
+}
+
+.btn {
+  background-color: #bf3d3d;
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 5px;
+  font-size: 3em;
+  transition: background-color 100ms ease-in-out;
+  cursor: pointer;
+}

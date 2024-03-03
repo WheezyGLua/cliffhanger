@@ -1,0 +1,152 @@
+[
+  {
+    "Level": 1,
+    "task": "Behovsanalysera kunden ifall det finns fler mobila tjänster dom önskar lägga till i företaget",
+    "score": 73
+  },
+  {
+    "Level": 2,
+    "task": "Kontrollera med kunden ifall dom har fler adresser dom är verksamma på då vi har möjlighet att ansluta deras företag till Fiber",
+    "score": 94
+  },
+  {
+    "Level": 3,
+    "task": "Förläng 2 abonnemang",
+    "score": 17
+  },
+  {
+    "Level": 4,
+    "task": "Behovsanalysera kundens inkommande trafik och fråga hur det kommer sig att kunden inte har ett fastnummer till företaget ännu",
+    "score": 91
+  },
+  {
+    "Level": 5,
+    "task": "Erbjud möjlighet att ordna ett fastnummer till kunden samt ett riktigt bra nummer",
+    "score": 83
+  },
+  {
+    "Level": 6,
+    "task": "Erbjud möjligheten att se över ifall vi kan sänka deras kostnader genom att flytta tjänsterna till företag",
+    "score": 78
+  },
+  {
+    "Level": 7,
+    "task": "Nyteckna 1 abonnemang",
+    "score": 26
+  },
+  {
+    "Level": 8,
+    "task": "Nyteckna ett fiber eller ett mobilt bredband",
+    "score": 31
+  },
+  {
+    "Level": 9,
+    "task": "Förläng 2 abonnemang",
+    "score": 64
+  },
+  {
+    "Level": 10,
+    "task": "Behovsanalysera om det finns fler i företaget som behöver en mobil tjänst",
+    "score": 44
+  },
+  {
+    "Level": 11,
+    "task": "Se över ifall kunden önskar en ny mobiltelefon, vi har möjlighet att lägga det mot 24 eller 36 månaders delbetalning",
+    "score": 92
+  },
+  {
+    "Level": 12,
+    "task": "Erbjud kunden det som går att förlänga, om kunden tackar nej, be om att få återkomma",
+    "score": 63
+  },
+  {
+    "Level": 13,
+    "task": "Förläng ett mobilt bredband eller fiber",
+    "score": 91
+  },
+  {
+    "Level": 14,
+    "task": "Nyteckna eller förläng ett abonnemang",
+    "score": 80
+  },
+  {
+    "Level": 15,
+    "task": "Nyteckna valfritt abonnemang",
+    "score": 48
+  },
+  {
+    "Level": 16,
+    "task": "Se över behovet av fastnummer",
+    "score": 56
+  },
+  {
+    "Level": 17,
+    "task": "Se över behovet av fler mobilnummer",
+    "score": 99
+  },
+  {
+    "Level": 18,
+    "task": "Förläng 2 abonnemang",
+    "score": 59
+  },
+  {
+    "Level": 19,
+    "task": "Teckna en fibertjänst",
+    "score": 85
+  },
+  {
+    "Level": 20,
+    "task": "Teckna ett fastnummer",
+    "score": 74
+  },
+  {
+    "Level": 21,
+    "task": "Teckna ett nytt abonnemang",
+    "score": 67
+  },
+  {
+    "Level": 22,
+    "task": "Erbjud en offert samt återkoppling",
+    "score": 86
+  },
+  {
+    "Level": 23,
+    "task": "Erbjud dig att genom att förnya eller teckna avtal med dig så kan dom vända sig till dig som kontaktperson",
+    "score": 89
+  },
+  {
+    "Level": 24,
+    "task": "Förläng 1 abonnemang",
+    "score": 92
+  },
+  {
+    "Level": 25,
+    "task": "Nyteckna valfritt abonnemang",
+    "score": 96
+  },
+  {
+    "Level": 26,
+    "task": "Nyteckna mobilabonnemang",
+    "score": 93
+  },
+  {
+    "Level": 27,
+    "task": "Nyteckna Fibertjänst",
+    "score": 83
+  },
+  {
+    "Level": 28,
+    "task": "Nyteckna Växel",
+    "score": 87
+  },
+  {
+    "Level": 29,
+    "task": "Nyteckna Mobilt Bredband",
+    "score": 98
+  },
+  {
+    "Level": 30,
+    "task": "Nyteckna 4 tjänster",
+    "score": 100
+  }
+]
